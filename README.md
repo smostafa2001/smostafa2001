@@ -1,16 +1,21 @@
-### Hi there 👋
+<strong>Junior Backend Developer</strong> with experience in <strong>HTML, CSS, JS, jQuery, Bootstrap, C#, EF Core, T-SQL, SQL Server and ASP .NET Core.</strong> Familiar with <strong>Design Patterns, Onion Arch., Clean Arch, Clean Coding and SOLID principle.</strong>
+Have basic knowledge about <strong>RDBMS and Normalization</strong>, Good knowledge about <stron>Frontend development and Git</strong>. Also have experience with basic <strong>JAVA, Python and C++</strong>. I hate repetitive life and I love to experience new challenge in every minute, I love Computer World and that's why I'm here now...
 
-<!--
-**smostafa2001/smostafa2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fact: The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. ---- Alvin Toffler
+    
+<br>
 
-Here are some ideas to get you started:
+## Expertises
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,dotnet,git,github,java,python,c++,docker,postgres,postman" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+## Connect with me
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/smostafa2001)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:s.mostafa.2001.1380@gmail.com)
+[<img align="left" alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" />](https://linkedin.com/in/smostafa2001)
+Phone Number: <a href="tel:+989377857287">+989377857287</a>
+
