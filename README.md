@@ -2,7 +2,8 @@
 Have basic knowledge about <strong>RDBMS and Normalization</strong>, Good knowledge about <stron>Front-End Development and Git</strong>. Also have experience with basic <strong>JAVA, Python and C++</strong>. I hate repetitive life and I love to experience new challenge in every minute, I’ve been in love with The Computer World and Microsoft since I was a child, that's why I chose this field...
 
 <br>
-⚡The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.<br>&nbsp-Alvin Toffler
+⚡The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.<br>
+- -Alvin Toffler
     
 <br>
 
