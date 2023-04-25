@@ -7,7 +7,7 @@ Have basic knowledge about <strong>RDBMS and Normalization</strong>, Good knowle
 
 ## Expertises
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,dotnet,git,github,java,python,c++,docker,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,dotnet,git,github,java,python,cpp,docker,postgres,postman" />
 </p>
 
 
