@@ -1,7 +1,7 @@
 <strong>Junior Backend Developer</strong> with experience in <strong>HTML, CSS, JS, jQuery, Bootstrap, C#, EF Core, T-SQL, SQL Server and ASP .NET Core.</strong> Familiar with <strong>Design Patterns, Onion Arch., Clean Arch, Clean Coding and SOLID principle.</strong>
 Have basic knowledge about <strong>RDBMS and Normalization</strong>, Good knowledge about <stron>Frontend development and Git</strong>. Also have experience with basic <strong>JAVA, Python and C++</strong>. I hate repetitive life and I love to experience new challenge in every minute, I love Computer World and that's why I'm here now...
-
-- ⚡ Fact: The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. ---- Alvin Toffler
+<br>
+⚡The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. -Alvin Toffler
     
 <br>
 
@@ -17,6 +17,6 @@ Have basic knowledge about <strong>RDBMS and Normalization</strong>, Good knowle
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/smostafa2001)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:s.mostafa.2001.1380@gmail.com)
 [<img align="left" alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" />](https://linkedin.com/in/smostafa2001)
-<br><br>
+<br><br><br>
 Phone Number: <a href="tel:+989377857287">+989377857287</a>
 
