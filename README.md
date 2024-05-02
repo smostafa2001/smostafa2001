@@ -12,7 +12,7 @@ Driven by a passion for tackling new challenges, I excel in pushing boundaries a
 
 ## Expertises
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,dotnet,git,github,java,python,cpp,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,dotnet,git,github,java,python,cpp,postman,blzaor" />
 </p>
 
 
