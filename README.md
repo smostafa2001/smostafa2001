@@ -1,5 +1,8 @@
-<strong>Backend Developer</strong> with experience in <strong>HTML, CSS, JS, jQuery, Bootstrap, C#, EF Core, T-SQL, SQL Server and ASP .NET Core.</strong> Familiar with <strong>Design Patterns, Onion Arch., Clean Arch, Clean Coding and SOLID principle.</strong>
-Have basic knowledge about <strong>RDBMS and Normalization</strong>, Good knowledge about <stron>Front-End Development and Git</strong>. Also have experience with basic <strong>JAVA, Python and C++</strong>. I don't like repetitive life and I love to experience new challenge every minute, and I’ve been in love with The Computer World and Microsoft since I was a child, so that's why I chose this field...
+Passionate Fullstack <strong>ASP.NET Core/Blazor</strong> Developer with a comprehensive skill set in Front-End Development encompassing HTML, CSS, JavaScript, jQuery, Bootstrap, and Blazor. Skilled in Back-End Development with expertise in C#, EF Core, and ASP.NET Core, along with proficiency in databases using T-SQL and SQL Server. Experienced in applying Design Patterns, Onion Architecture, Clean Architecture, and SOLID principles to deliver robust solutions.
+
+Possessing a strong foundation in RDBMS and Normalization, coupled with a deep understanding of Front-End Development and Git version control. Additionally, proficient in languages such as JAVA, Python, and C++, fostering a well-rounded problem-solving approach.
+
+Driven by a passion for tackling new challenges, I excel in pushing boundaries and exploring innovative solutions. My lifelong fascination with computing, particularly Microsoft technologies, fuels my dedication to this dynamic field. Let's connect and embark on exciting ventures together!
 
 <br>
 ⚡The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.<br>
@@ -9,7 +12,7 @@ Have basic knowledge about <strong>RDBMS and Normalization</strong>, Good knowle
 
 ## Expertises
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,dotnet,git,github,java,python,cpp,docker,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,dotnet,git,github,java,python,cpp,postman" />
 </p>
 
 
