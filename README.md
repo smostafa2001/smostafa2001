@@ -1,4 +1,4 @@
-Passionate Fullstack <strong>ASP.NET Core/Blazor</strong> Developer with a comprehensive skill set in Front-End Development encompassing HTML, CSS, JavaScript, jQuery, Bootstrap, and Blazor. Skilled in Back-End Development with expertise in C#, EF Core, and ASP.NET Core, along with proficiency in databases using T-SQL and SQL Server. Experienced in applying Design Patterns, Onion Architecture, Clean Architecture, and SOLID principles to deliver robust solutions.
+Passionate Fullstack <strong>ASP.NET Core/Blazor/React</strong> Developer with a comprehensive skill set in Front-End Development encompassing HTML, CSS, JavaScript, TypeScript, jQuery, Bootstrap, TailwindCSS, Blazor, and React. Skilled in Back-End Development with expertise in C#, EF Core, and ASP.NET Core, along with proficiency in databases using T-SQL and SQL Server. Experienced in applying Design Patterns, Onion Architecture, Clean Architecture, and SOLID principles to deliver robust solutions.
 
 Possessing a strong foundation in RDBMS and Normalization, coupled with a deep understanding of Front-End Development and Git version control. Additionally, proficient in languages such as JAVA, Python, and C++, fostering a well-rounded problem-solving approach.
 
@@ -12,7 +12,7 @@ Driven by a passion for tackling new challenges, I excel in pushing boundaries a
 
 ## Expertises
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,dotnet,git,github,java,python,cpp,postman,wasm" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,cs,dotnet,git,github,java,python,cpp,postman,wasm,react,ts" />
 </p>
 
 
