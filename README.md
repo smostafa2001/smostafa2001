@@ -21,7 +21,6 @@ Driven by a passion for tackling new challenges, I excel in pushing boundaries a
 ## Connect with me
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/smostafa2001)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:s.mostafa.2001.1380@gmail.com)
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/smostafa2001)
 <br><br><br>
 Phone Number: <a href="tel:+989377857287">+989377857287</a>
 
